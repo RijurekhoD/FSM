@@ -1,0 +1,1 @@
+The code for multi-resolution flood-susceptibility modelling, spatially structured validation, SHAP interpretation and symbolic regression is available at [insert public GitHub repository URL]. A versioned archive and persistent DOI should be provided through Zenodo. Input rasters are not included; data sources and access conditions should be stated in the manuscript.

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and archived software release."
+title: "Nadia Flood Susceptibility ML, SHAP and PySR"
+type: software
+authors:
+  - family-names: Dasgupta
+    given-names: Rijurekho
+version: 1.0.0
